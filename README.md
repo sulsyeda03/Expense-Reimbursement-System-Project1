@@ -1,5 +1,7 @@
 # Expense Reimbursement System
 
+Project is entirely deployed on EC2 Instance: http://3.143.82.88:8080/ExpenseReimburement/home.html 
+
 **Actors involved in system:**  
 
 - User 
