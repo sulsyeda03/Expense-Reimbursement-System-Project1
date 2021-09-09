@@ -78,7 +78,7 @@ Middle tier | Servlets
 Back-End connected to Database using | Hibernate
 Web-Container | Deployed onto Tomcat10 Server
 Database | MYSQL hosted on AWS RDS
-Frontend | HTML, CSS, Bootstrap 
+Frontend | JSP, CSS, Bootstrap 
 Testing | JUnit
 Logging framework | Log4J 
 
