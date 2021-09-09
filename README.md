@@ -17,9 +17,11 @@
 
 `   `**As an Associate:** 
 
-- an Associate can create a new ticket
+- Login
+- An Associate can create a new ticket
 - View all past tickets 
 - View policy 
+- Logout
 
 
 
@@ -27,16 +29,18 @@
 
 - Manager will have all functionalities of Associate actor i.e.
 - As an Manager: 
-  - An Associate can create a new ticket
+  - Can login
+  - Can create a new ticket
   - View all past tickets 
   - View policy
+  - Logout
 - Additionally, Manager can:
-- Manager can view tickets of all associates 
-- Manager can Update status from "Pending" to "Approved"
-- Manager can Update status from "Pending" to "Rejected"
-- Manager can add comments to already submitted "Associate" tickets
-
-
+  - View tickets of all associates 
+  - Use below functionalities on Associate's tickets: 
+    - Update status from "Pending" to "Approved"
+    - Update status from "Pending" to "Rejected"
+    - add comments to already submitted "Associate" tickets
+    - Filter tickets based on status : "Pending", "Approved", "Rejected" 
 
 
 
@@ -62,6 +66,10 @@ Frontend | HTML, CSS, Bootstrap
 Testing | JUnit
 Logging framework | Log4J 
 
+
+
+Project Link:  
+Contributors: @CCatlin28
 
 
 
