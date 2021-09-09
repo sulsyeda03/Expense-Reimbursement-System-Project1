@@ -48,11 +48,23 @@
 - It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
 - No action can be taken on already "Approved" or "Rejected" tickets
 
-**Design Pattern:**
+** Techstack for Expense Reimbursement System(Project 1): **  
 
-DAO:
+  Techstack  | Technologies/Tools Used
+------------ | -------------
+Project Design | DAO Design Pattern 
+Backend | JAVA, JavaScript 
+Middle tier | Servlets
+Back-End connected to Database using | Hibernate
+Web-Container | Deployed onto Tomcat10 Server
+Database | MYSQL hosted on AWS RDS
+Frontend | HTML, CSS, Bootstrap 
+Testing | JUnit
+Logging framework | Log4J 
 
-![](Aspose.Words.de9e67e7-4cbb-474b-b1f6-6e08672ff3f6.001.png)
+
+
+
 
 
 
