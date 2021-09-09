@@ -15,22 +15,22 @@
 
 
 
-`   `**As an Associate:** 
+`   `**As an Associate, I can perform below functionalities:** 
 
 - Login
-- An Associate can create a new ticket
+- Create a new ticket
 - View all past tickets 
 - View policy 
 - Logout
 
 
 
-`   `**As a Manager:** 
+`   `**As a Manager, I can perform below functionalities:** 
 
 - Manager will have all functionalities of Associate actor i.e.
-- As an Manager: 
-  - Can login
-  - Can create a new ticket
+- A Manager can: 
+  - Login
+  - Create a new ticket
   - View all past tickets 
   - View policy
   - Logout
@@ -52,6 +52,9 @@
 - It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
 - No action can be taken on already "Approved" or "Rejected" tickets
 
+_____________________________________________________________________________________________
+
+
 __Techstack for Expense Reimbursement System(Project 1):__ 
 
   Techstack  | Technologies/Tools Used
@@ -68,9 +71,9 @@ Logging framework | Log4J
 
 
 
-Project Link:  
+Project Link:   
 
-Contributors: "@sulsyeda03" , @CCatlin28 
+Contributors: @sulsyeda03 , @CCatlin28 
 
 
 
