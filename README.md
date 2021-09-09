@@ -1,6 +1,15 @@
 # Expense Reimbursement System
 
-Project is entirely deployed on EC2 Instance: http://3.143.82.88:8080/ExpenseReimburement/home.html 
+Project is entirely deployed on EC2 Instance: [Click here](http://3.143.82.88:8080/ExpenseReimburement/home.html)
+
+[Project Link](https://github.com/sulsyeda03/Expense-Reimbursement-System-Project1)
+
+Contributors: [sulsyeda03](https://github.com/sulsyeda03) , [CCatlin28](https://github.com/CCatlin28)
+
+IDE used: Eclipse 
+
+![Project Stucture](https://user-images.githubusercontent.com/85700911/132738776-0bd2190d-5e88-4353-9d99-e1b064203681.png)
+
 
 **Actors involved in system:**  
 
@@ -73,9 +82,7 @@ Logging framework | Log4J
 
 
 
-Project Link:   
 
-Contributors: @sulsyeda03 , @CCatlin28 
 
 
 
