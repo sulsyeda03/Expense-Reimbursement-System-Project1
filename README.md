@@ -48,7 +48,7 @@
 - It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
 - No action can be taken on already "Approved" or "Rejected" tickets
 
-__Techstack for Expense Reimbursement System(Project 1): 
+__Techstack for Expense Reimbursement System(Project 1):__ 
 
   Techstack  | Technologies/Tools Used
 ------------ | -------------
