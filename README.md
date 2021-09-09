@@ -8,7 +8,7 @@ Contributors: [sulsyeda03](https://github.com/sulsyeda03) , [CCatlin28](https://
 
 IDE used: Eclipse 
 
-![Project Stucture](https://user-images.githubusercontent.com/85700911/132738776-0bd2190d-5e88-4353-9d99-e1b064203681.png)
+![Project Stucture](https://github.com/sulsyeda03/Expense-Reimbursement-System-Project1-/blob/main/images/project_stucture.png)
 
 
 **Actors involved in system:**  
