@@ -1,4 +1,4 @@
-**# Expense Reimbursement System**
+# Expense Reimbursement System**
 
 **Actors involved in system:**  
 
@@ -48,7 +48,7 @@
 - It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
 - No action can be taken on already "Approved" or "Rejected" tickets
 
-** Techstack for Expense Reimbursement System(Project 1): **  
+**Techstack for Expense Reimbursement System(Project 1):**  
 
   Techstack  | Technologies/Tools Used
 ------------ | -------------
