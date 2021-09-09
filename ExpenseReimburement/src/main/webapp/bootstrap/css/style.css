@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+.spfont{
+          font-family: 'Fondamento', cursive;
+        }
+        .greet{
+          font-size: 8vw;
+        }
+        li{
+          margin-right: 15px;
+        }
+        
+        
+
+.currency-wrap{
+		position:relative;
+	}
+	
+	.currency-code{
+		position:absolute;
+		left:8px;
+		top:10px;
+	}
+	
+	.text-currency{
+		padding:10px 20px;
+		border:solid 1px #ccc;
+		border-radius:5px;
+	}
+	
+	.table-assoc{
+    padding:10px 20px;
+   
+    border-radius:5px;
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mirabilis Home Page</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+    integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+  <script type=”text/javascript” src=”bootstrap/js/bootstrap.min.js”></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fondamento&display=swap" rel="stylesheet">
+  <style>
+    .spfont {
+      font-family: 'Fondamento', cursive;
+    }
+
+    .greet {
+      font-size: 8vw;
+    }
+  </style>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-info">
+    <img src="bootstrap/img/logo.jpg" alt="" style="width: 50px;">
+    <a class="navbar-brand spfont" style="font-size: 20pt;" href="#">Mirabilis</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent" style="font-size: 14pt;">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="home.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" name="login" id="login" href="loginPage.jsp" onclick="login()">Login</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" name="register" id="register" href="register.html" onclick="register()">Register</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <br>
+  <div>
+    <div style="width: 30%; float: left;">
+      <img style="width: 100%;" src="bootstrap/img/logob.png" alt="">
+    </div>
+    <div style="width: 70%; margin: auto; text-align: center; float: left;">
+      <h1 class="greet">Welcome to the Mirabilis Expense Reimbursment Portal</h1>
+    </div>
+  </div>
+  
+  
+  
+  <!-- ----------- fetch api function call for login and register from home page  
+  <script>
+
+		function login(){
+		
+		    let file = "login.html";
+		
+		        fetch(file)
+		        .then( x=> x.text())
+		        .then(y => document.getElementById("demo").innerHTML = y );
+		
+		}
+		
+		function register() {
+		
+		    let file = "register.html";
+		
+		        fetch(file)
+		        .then( x=> x.text())
+		        .then(y => document.getElementById("demo").innerHTML = y );
+		
+		}
+
+  
+  
+</script>
+  
+  -->
+  
+  
+  
+  
+  
+  
+</body>
+
+</html>
