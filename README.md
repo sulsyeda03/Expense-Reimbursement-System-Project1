@@ -59,11 +59,23 @@ IDE used: Eclipse
 
 `  `**By default,** 
 
-- All the tickets created are: 
-- In status - "Pending"
-- It records automatically , when the ticket was created
-- It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
-- No action can be taken on already "Approved" or "Rejected" tickets
+- When a Ticket is created: 
+  - It is bydefault in status "Pending"- 
+  - Date and TimeStamp are automatically are recorded and stored
+  - User cannot select an expense Date no longer than today
+  - Amount is in number format upto two decimals
+  - Type of Reimbursement has to be one of 4 options:
+      - Lodging
+      - Travel
+      - Food
+      - Other   
+- When an action is taken on Ticket by Manager: 
+  - Date and TimeStamp are automatically are recorded and stored 
+  - Status of ticket can be changed from "Pending" to only one of below options:
+    - Approved
+    - Rejected
+  - No action can be taken on already "Approved" or "Rejected" tickets
+  - Details entered by Associate are read only 
 
 _____________________________________________________________________________________________
 
