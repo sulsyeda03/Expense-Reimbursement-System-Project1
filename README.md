@@ -8,6 +8,8 @@ Contributors: [sulsyeda03](https://github.com/sulsyeda03) , [CCatlin28](https://
 
 IDE used: Eclipse 
 
+**Project Structure**
+
 ![Project Stucture](https://github.com/sulsyeda03/Expense-Reimbursement-System-Project1-/blob/main/images/project_stucture.png)
 
 
