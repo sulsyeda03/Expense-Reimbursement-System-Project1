@@ -48,6 +48,11 @@
 - It records automatically , when the ticket was "Approved" or "Rejected" by Manager 
 - No action can be taken on already "Approved" or "Rejected" tickets
 
+**Design Pattern:**
+
+DAO:
+
+![](Aspose.Words.de9e67e7-4cbb-474b-b1f6-6e08672ff3f6.001.png)
 
 
 
