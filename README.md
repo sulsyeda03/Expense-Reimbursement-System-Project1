@@ -1,4 +1,4 @@
-# Expense Reimbursement System**
+# Expense Reimbursement System
 
 **Actors involved in system:**  
 
